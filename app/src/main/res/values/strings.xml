@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">10116046_Mariaulpah_Uts</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Tambah</string>
+    <string name="slide_1_desc">Silahkan tambahkan kontak teman anda</string>
+    <string name="slide_2_title">Ubah</string>
+    <string name="slide_2_desc">Anda bisa mengubah data teman yang sudah ditambahkan</string>
+    <string name="slide_3_title">Hapus</string>
+    <string name="slide_3_desc">Anda bisa menghapus data teman yang sudah ditambahkan</string>
+    <string name="play_again_desc">Untuk melihatnya lagi Setting -> apps -> intro view -> clear data</string>
+    <string name="play_again">play again</string>
+</resources>
